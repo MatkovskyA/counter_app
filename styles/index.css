@@ -4,7 +4,7 @@ body {
 }
 
 .run {
-    background-image: url(../resources/run.png);
+    background-image: url(resources/run.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -69,7 +69,7 @@ body {
 @media (max-width: 767px) {
     .run__inner {
         row-gap: 35px;
-        padding: 55px 15px 44px 15px;
+        padding: 55px 15px 204px 15px;
     }
 
     .counter__meaning {
