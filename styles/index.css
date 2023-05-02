@@ -4,12 +4,10 @@ body {
 }
 
 .run {
-
     background-image: url(../resources/run.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-
 }
 
 .container {
@@ -68,11 +66,7 @@ body {
     background-color: #ce1833;
 }
 
-
-
 @media (max-width: 767px) {
-
-
     .run__inner {
         row-gap: 35px;
         padding: 55px 15px 44px 15px;
