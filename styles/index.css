@@ -4,7 +4,7 @@ body {
 }
 
 .run {
-    background-image: url(resources/run.png);
+    background-image: url(../resources/run.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
